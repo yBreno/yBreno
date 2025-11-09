@@ -21,9 +21,9 @@ Acredito que tecnologia é uma forma de acessibilidade — unir técnica e sensi
 ---
 
 ## 🌐 Onde me encontrar
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEU-LINK](https://www.linkedin.com/in/breno-redusino-a4150b2b8/))
-[![Instagram](https://img.shields.io/badge/Instagram-C13584?logo=instagram&logoColor=white)](https://www.instagram.com/SEU-INSTAGRAM](https://www.instagram.com/thatsmebreno/))
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](brenoredusino0@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-7B2CBF?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/breno-redusino-a4150b2b8/)
+[![Instagram](https://img.shields.io/badge/Instagram-000000?logo=instagram&logoColor=7B2CBF&style=for-the-badge)](https://www.instagram.com/thatsmebreno/)
+[![Email](https://img.shields.io/badge/Email-4B0082?logo=gmail&logoColor=white&style=for-the-badge)](mailto:brenoredusino0@gmail.com)
 
 ---
 
