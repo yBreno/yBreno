@@ -9,7 +9,7 @@ Python • Flask • SQLite • Git • HTML • CSS • Godot
 
 🎮 Games e criatividade sempre fizeram parte do meu caminho — Minecraft e Genshin Impact me ensinaram tanto sobre lógica quanto sobre imaginação.  
 
-💜 Meu estilo: tecnologia com estética roxa e preta, minimalismo com um toque pop.  
+💜 Tecnologia com estética roxa e preta, minimalismo com um toque pop.  
 
 ---
 
