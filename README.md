@@ -5,7 +5,7 @@
 🌐 Apaixonado por desenvolvimento, design e inovação com propósito humano  
 
 📚 Atualmente aprendendo e criando com:  
-Python • Flask • SQLite • Git • HTML • CSS • Godot  
+Python • Flask • SQLite • Git • HTML • CSS • JavaScript • C++ 
 
 🎮 Games e criatividade sempre fizeram parte do meu caminho — Minecraft e Genshin Impact me ensinaram tanto sobre lógica quanto sobre imaginação.  
 
