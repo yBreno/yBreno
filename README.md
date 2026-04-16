@@ -1,6 +1,6 @@
 ![](Banner.png)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yBreno&show_icons=true&theme=transparent)
+
 
 💻 Mecânico de Usinagem e estudante de Ciência da Computação  
 ⚙️ Ex-competidor da SP Skills • Explorando o elo entre mecanica e tecnologia  
@@ -30,3 +30,5 @@ Acredito que tecnologia é uma forma de acessibilidade — unir técnica e sensi
 ---
 
 ⚙️ Acredito que tecnologia deve ser para todos — por isso, busco criar projetos acessíveis, inclusivos e cheios de propósito.
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yBreno&show_icons=true&theme=transparent)
