@@ -1,6 +1,7 @@
 ![](Banner.png)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yBreno)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yBreno&show_icons=true&theme=transparent)
+
 💻 Mecânico de Usinagem e estudante de Ciência da Computação  
 ⚙️ Ex-competidor da SP Skills • Explorando o elo entre mecanica e tecnologia  
 🌐 Apaixonado por desenvolvimento, design e inovação com propósito humano  
