@@ -30,5 +30,3 @@ Acredito que tecnologia é uma forma de acessibilidade — unir técnica e sensi
 ---
 
 ⚙️ Acredito que tecnologia deve ser para todos — por isso, busco criar projetos acessíveis, inclusivos e cheios de propósito.
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yBreno&show_icons=true&theme=transparent)
