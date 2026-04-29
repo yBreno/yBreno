@@ -124,6 +124,6 @@ Foco em responsividade e layout profissional.
 
 <div align="center">
 
-💭 *"Tecnologia deve ser para todos — e eu quero ajudar a construir isso."*
+💭 *"Tecnologia deve ser para todos e eu quero ajudar a construir isso."*
 
 </div>
