@@ -1,32 +1,129 @@
-![](Banner.png)
+![](Bannerdefundo.png)
 
+<div align="center">
 
+### 🚀 Transformando ideias em tecnologia acessível
 
-💻 Mecânico de Usinagem e estudante de Ciência da Computação  
-⚙️ Ex-competidor da SP Skills • Explorando o elo entre mecanica e tecnologia  
-🌐 Apaixonado por desenvolvimento, design e inovação com propósito humano  
-
-📚 Atualmente aprendendo e criando com:  
-Python • Flask • SQLite • Git • HTML • CSS • JavaScript • C++ 
-
-🎮 Games e criatividade sempre fizeram parte do meu caminho — Minecraft e Genshin Impact me ensinaram tanto sobre lógica quanto sobre imaginação.  
-
-💜 Tecnologia com estética roxa e preta.
+</div>
 
 ---
 
-## 🚀 O que me motiva
-Transformar ideias em projetos reais e acessíveis.  
-Acredito que tecnologia é uma forma de acessibilidade — unir técnica e sensibilidade é o que me motiva.
+## 💡 Sobre mim
 
+🎓 Estudante de Ciência da Computação  
+⚙️ Background em usinagem (SP Skills)  
+🎮 Criador de projetos que unem lógica, criatividade e propósito  
 
----
-
-## 🌐 Onde me encontrar
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-7B2CBF?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/breno-redusino-a4150b2b8/)
-[![Instagram](https://img.shields.io/badge/Instagram-000000?logo=instagram&logoColor=7B2CBF&style=for-the-badge)](https://www.instagram.com/thatsmebreno/)
-[![Email](https://img.shields.io/badge/Email-4B0082?logo=gmail&logoColor=white&style=for-the-badge)](mailto:brenoredusino0@gmail.com)
+💭 "Acredito que tecnologia deve ser acessível, intuitiva e impactar pessoas".
 
 ---
 
-⚙️ Acredito que tecnologia deve ser para todos — por isso, busco criar projetos acessíveis, inclusivos e cheios de propósito.
+## 🚀 Atualmente
+
+- 🎯 Em formação para me tornar desenvolvedor full stack  
+- 🌐 Estudando front-end e back-end na prática
+- 💼 Dando os primeiros passos no mercado de tecnologia  
+- 🎮 Criando projetos com identidade própria, unindo design, lógica e propósito  
+
+---
+
+## 🛠 Tecnologias
+
+### 💻 Linguagens
+![C++](https://img.shields.io/badge/C++-0d1117?style=for-the-badge&logo=c%2B%2B&logoColor=purple)
+![Java](https://img.shields.io/badge/Java-0d1117?style=for-the-badge&logo=openjdk&logoColor=purple)
+![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=purple)
+![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=purple)
+![SQL](https://img.shields.io/badge/SQL-0d1117?style=for-the-badge&logo=database&logoColor=purple)
+
+---
+
+### 🌐 Front-end
+![HTML](https://img.shields.io/badge/HTML-0d1117?style=for-the-badge&logo=html5&logoColor=purple)
+![CSS](https://img.shields.io/badge/CSS-0d1117?style=for-the-badge&logo=css3&logoColor=purple)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-0d1117?style=for-the-badge&logo=bootstrap&logoColor=purple)
+
+---
+
+### ⚙️ Back-end & Ferramentas
+![Flask](https://img.shields.io/badge/Flask-0d1117?style=for-the-badge&logo=flask&logoColor=purple)
+![SQLite](https://img.shields.io/badge/SQLite-0d1117?style=for-the-badge&logo=sqlite&logoColor=purple)
+![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=purple)
+
+---
+
+### 🎮 Outros
+![Godot](https://img.shields.io/badge/Godot-0d1117?style=for-the-badge&logo=godot-engine&logoColor=purple)
+
+---
+
+## 🌟 Projetos em destaque
+
+### 🌐 [Portfólio](https://github.com/yBreno/portifolio-html)  
+Meu portfólio pessoal, onde apresento meus projetos, evolução e identidade como desenvolvedor.  
+Focado em design moderno, responsividade e experiência do usuário.
+
+---
+
+### 🎲 [All-Count](https://github.com/yBreno/All-Count)  
+Jogo educativo desenvolvido para alunos da APAE, com foco no ensino de matemática de forma acessível e intuitiva.  
+O projeto busca transformar o aprendizado em uma experiência visual, interativa e inclusiva.
+
+---
+
+### 🎮 [GameBoxd](https://github.com/yBreno/GameBoxd)  
+Plataforma inspirada no Letterboxd, voltada para jogos.  
+Permite registrar, organizar e explorar experiências com games.
+
+---
+
+### 👁️ [Tactic Eye](https://github.com/yBreno/Tactic-Eye)  
+Web crawler desenvolvido em Python para coletar e organizar notícias do cenário de Valorant e e-sports.  
+Focado em automação e estruturação de dados.
+
+---
+
+### ⚡ [Kurly](https://github.com/yBreno/Kurly)  
+Sistema de agendamento para cabeleireiros, inspirado em plataformas modernas de serviços.  
+Focado em organização e experiência do usuário.
+
+---
+
+### 🎨 [NOCTRA](https://github.com/yBreno/NOCTRA)  
+Projeto front-end de e-commerce fictício de periféricos.  
+Focado em cards e layout moderno.
+
+---
+
+### 💎 [OMY New Face](https://github.com/yBreno/Omy-newface)  
+Reformulação de site de joalheria utilizando Bootstrap.  
+Foco em responsividade e layout profissional.
+
+---
+
+## 🎮 Sobre mim
+
+- 🎮 Minecraft me ensinou lógica e criatividade  
+- 💜 Estética preta e roxa  
+- 🧠 Gosto de transformar ideias em soluções reais  
+- 🚀 Sempre evoluindo  
+
+---
+
+## 📫 Onde me encontrar
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=purple)](https://www.linkedin.com/in/breno-redusino-a4150b2b8)
+[![Instagram](https://img.shields.io/badge/Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=purple)](https://www.instagram.com/thatsmebreno)
+[![Email](https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=purple)](mailto:brenoredusino0@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+
+💭 *"Tecnologia deve ser para todos — e eu quero ajudar a construir isso."*
+
+</div>
