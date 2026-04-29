@@ -2,17 +2,7 @@
 
 <div align="center">
 
-<div align="center">
-
 <img src="https://readme-typing-svg.herokuapp.com/?color=8A2BE2&size=25&center=true&vCenter=true&width=600&lines=Desenvolvedor+Full+Stack+em+formação;Construindo+tecnologia+acessível;Transformando+ideias+em+projetos;Sempre+aprendendo+algo+novo" />
-
-</div>
-
-<div align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com/?color=8A2BE2&size=25&center=true&vCenter=true&width=700&lines=Desenvolvedor+Full+Stack+em+formação;Criando+projetos+com+propósito;Tecnologia+acessível+de+verdade;Design+dark+%2B+experiência+moderna;Sempre+evoluindo" />
-
-</div>
 
 </div>
 
