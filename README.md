@@ -83,24 +83,6 @@ Focado em automação e estruturação de dados.
 
 ---
 
-### ⚡ [Kurly](https://github.com/yBreno/Kurly)  
-Sistema de agendamento para cabeleireiros, inspirado em plataformas modernas de serviços.  
-Focado em organização e experiência do usuário.
-
----
-
-### 🎨 [NOCTRA](https://github.com/yBreno/NOCTRA)  
-Projeto front-end de e-commerce fictício de periféricos.  
-Focado em cards e layout moderno.
-
----
-
-### 💎 [OMY New Face](https://github.com/yBreno/Omy-newface)  
-Reformulação de site de joalheria utilizando Bootstrap.  
-Foco em responsividade e layout profissional.
-
----
-
 ## 🎮 Sobre mim
 
 - 🎮 Minecraft me ensinou lógica e criatividade  
