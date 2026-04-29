@@ -2,7 +2,11 @@
 
 <div align="center">
 
-### 🚀 Transformando ideias em tecnologia acessível
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com/?color=8A2BE2&size=25&center=true&vCenter=true&width=600&lines=Desenvolvedor+Full+Stack+em+formação;Construindo+tecnologia+acessível;Transformando+ideias+em+projetos;Sempre+aprendendo+algo+novo" />
+
+</div>
 
 </div>
 
