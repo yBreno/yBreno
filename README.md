@@ -107,9 +107,9 @@ Focado em automação e estruturação de dados.
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=yBreno&show_icons=true&theme=tokyonight&title_color=purple&icon_color=purple&text_color=ffffff&bg_color=0d1117"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=yBreno&show_icons=true&theme=tokyonight&title_color=8A2BE2&icon_color=8A2BE2&text_color=ffffff&bg_color=0d1117"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yBreno&layout=compact&theme=tokyonight&title_color=purple&text_color=ffffff&bg_color=0d1117"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yBreno&layout=compact&theme=tokyonight&title_color=8A2BE2&text_color=ffffff&bg_color=0d1117"/>
 
 </div>
 
