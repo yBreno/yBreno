@@ -59,7 +59,7 @@
 
 ## 🌟 Projetos em destaque
 
-### 🌐 [Portfólio](https://github.com/yBreno/portifolio-html)  
+### 🌐 [Portfólio](https://github.com/yBreno/Portfolio)  
 Meu portfólio pessoal, onde apresento meus projetos, evolução e identidade como desenvolvedor.  
 Focado em design moderno, responsividade e experiência do usuário.
 
