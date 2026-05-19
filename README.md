@@ -65,24 +65,6 @@ Focado em design moderno, responsividade e experiência do usuário.
 
 ---
 
-### 🎲 [All-Count](https://github.com/yBreno/All-Count)  
-Jogo educativo desenvolvido para alunos da APAE, com foco no ensino de matemática de forma acessível e intuitiva.  
-O projeto busca transformar o aprendizado em uma experiência visual, interativa e inclusiva.
-
----
-
-### 🎮 [GameBoxd](https://github.com/yBreno/GameBoxd)  
-Plataforma inspirada no Letterboxd, voltada para jogos.  
-Permite registrar, organizar e explorar experiências com games.
-
----
-
-### 👁️ [Tactic Eye](https://github.com/yBreno/Tactic-Eye)  
-Web crawler desenvolvido em Python para coletar e organizar notícias do cenário de Valorant e e-sports.  
-Focado em automação e estruturação de dados.
-
----
-
 ## 🎮 Sobre mim
 
 - 🎮 Minecraft me ensinou lógica e criatividade  
