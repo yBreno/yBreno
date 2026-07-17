@@ -11,8 +11,6 @@
 ## 💡 Sobre mim
 
 🎓 Estudante de Ciência da Computação  
-⚙️ Background em usinagem (SP Skills)  
-🎮 Criador de projetos que unem lógica, criatividade e propósito  
 
 💭 "Acredito que tecnologia deve ser acessível, intuitiva e impactar pessoas".
 
