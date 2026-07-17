@@ -18,42 +18,27 @@
 ###
 
 <div align="center">
-    <h3>⚙️ Back-End</h3>
-  <p>
+    <h3>Desenvolvimento Back-End</h3>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" style="margin: 4px;" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" style="margin: 4px;" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" style="margin: 4px;" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" height="30" style="margin: 4px;" />
-  </p>
-  
-  <h3>🌐 Front-End</h3>
-  
+  <h3>Desenvolvimento Front-End</h3>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" style="margin: 4px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" style="margin: 4px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="30" style="margin: 4px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" style="margin: 4px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height="30" style="margin: 4px;" />
-  
-  
-  <h3>🗄️ Banco de dados & Cloud</h3>
-  <p>
+  <h3>Banco de dados & Cloud</h3>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" style="margin: 4px;" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="30" style="margin: 4px;" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="30" style="margin: 4px;" />
-  </p>
-  
   <h3>🎮 Desenvolvimento de Jogos</h3>
-  <p>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" height="30" style="margin: 4px;" />
-  </p>
-  
   <h3>🎨 Design & UI/UX</h3>
-  <p>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" style="margin: 4px;" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="30" style="margin: 4px;" />
-  </p>
   </div>
-  
   ###
   
   <img align="right" height="150" src="https://i.imgflip.com/awv358.gif" />
