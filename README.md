@@ -1,5 +1,5 @@
-<h2 align="left">Oi 👋! Eu sou o Breno 😊</h2>
-
+<img src="banner-novo.png" height="40" style="margin-right: 6px;" />
+banner-novo.png
 ###
 
 
