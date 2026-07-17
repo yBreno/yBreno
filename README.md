@@ -1,5 +1,5 @@
 
-
+<div align="center"> Oi, Sou o Breno 😊 </div>
 <div align="center">
   <a href="https://open.spotify.com/user/31kfwghe247f6yf5jqpewdcekn3a">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=31kfwghe247f6yf5jqpewdcekn3a&count=1" alt="Spotify recently played" />
