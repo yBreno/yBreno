@@ -1,4 +1,4 @@
-<img src="greeting.png" /> 
+<img src="greetings.png" /> 
 
 
 <div align="center" style="display: flex; justify-content: center; align-items: center; gap: 15px; flex-wrap: wrap;">
