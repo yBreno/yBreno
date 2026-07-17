@@ -1,6 +1,9 @@
 <h2 data-importer="text" align="left">Oi 👋! Eu sou o Breno 😊</h2>
 
 ###
+<img src="https://raw.githubusercontent.com/yBreno/yBreno/stats-output/stats.svg" />
+<img src="https://raw.githubusercontent.com/yBreno/yBreno/languages-output/languages.svg" />
+<img src="https://raw.githubusercontent.com/yBreno/yBreno/snake-output/snake.svg" />
 
 <div data-importer="music" align="center">
   <a href="https://open.spotify.com/user/31kfwghe247f6yf5jqpewdcekn3a">
