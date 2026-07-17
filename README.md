@@ -1,4 +1,4 @@
-<img src="banner-novo.jpeg" weight="100" style="margin-right: 6px;" />
+<img src="banner-novo.jpeg" height="100" style="margin-right: 6px;" />
 
 
 
