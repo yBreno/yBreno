@@ -2,9 +2,19 @@
 
 ###
 
+
 <div align="center">
   <a href="https://open.spotify.com/user/31kfwghe247f6yf5jqpewdcekn3a">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=31kfwghe247f6yf5jqpewdcekn3a&count=1" alt="Spotify recently played" />
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/ybreno/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="35" alt="linkedin logo" />
+  </a>
+  <a href="https://www.instagram.com/breno_redusino/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=for-the-badge" height="35" alt="instagram logo" />
   </a>
 </div>
 
@@ -58,14 +68,7 @@
  
 ###
  
-<div align="center">
-  <a href="https://www.linkedin.com/in/ybreno/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="35" alt="linkedin logo" />
-  </a>
-  <a href="https://www.instagram.com/breno_redusino/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=for-the-badge" height="35" alt="instagram logo" />
-  </a>
-</div>
+
 
 ###
 
