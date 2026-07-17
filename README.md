@@ -11,8 +11,11 @@
 ###
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/yBreno/yBreno/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=midnight-purple&locale=en&hide_border=true&custom_title=My%20GitHub%20Stats" height="150" alt="stats graph" />
-  <img src=".github/workflows/languages.yml?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=midnight-purple&hide_border=true&custom_title=Best%20Stack%20fr" height="150" alt="languages graph" />
+  <!-- Stats Graph -->
+  <img src="https://raw.githubusercontent.com/yBreno/yBreno/stats-output/stats.svg?theme=midnight-purple&hide_border=true&custom_title=My%20GitHub%20Stats" height="150" alt="stats graph" />
+  
+  <!-- Languages Graph (Usando a API direta para não quebrar) -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yBreno&layout=compact&card_width=320&langs_count=5&theme=midnight-purple&hide_border=true&custom_title=Best%20Stack%20fr" height="150" alt="languages graph" />
 </div>
 
 ###
@@ -66,7 +69,9 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/yBreno/yBreno/snake-output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <img src="https://raw.githubusercontent.com/yBreno/yBreno/snake-output/snake.svg" alt="Snake animation" />
+</div>
 
 ###
 
@@ -79,5 +84,3 @@
 <div>
   <img style="width:100%;" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=true&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=onedark" />
 </div>
-
-###
