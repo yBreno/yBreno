@@ -11,10 +11,10 @@
 ###
 
 <div align="center">
-  <!-- Stats Graph -->
-  <img src="https://raw.githubusercontent.com/yBreno/yBreno/stats-output/stats.svg?theme=midnight-purple&hide_border=true&custom_title=My%20GitHub%20Stats" height="150" alt="stats graph" />
+  <!-- GitHub Stats Direto da API (Garantido funcionar) -->
+  <img src="https://github-readme-stats.vercel.app/api?username=yBreno&show_icons=true&include_all_commits=true&count_private=true&theme=midnight-purple&hide_border=true&custom_title=My%20GitHub%20Stats" height="150" alt="stats graph" />
   
-  <!-- Languages Graph (Usando a API direta para não quebrar) -->
+  <!-- Linguagens Direto da API (Garantido funcionar) -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yBreno&layout=compact&card_width=320&langs_count=5&theme=midnight-purple&hide_border=true&custom_title=Best%20Stack%20fr" height="150" alt="languages graph" />
 </div>
 
@@ -69,9 +69,7 @@
 
 <br clear="both">
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/yBreno/yBreno/snake-output/snake.svg" alt="Snake animation" />
-</div>
+<!-- Removi a cobrinha temporariamente para não ficar o link quebrado enquanto ajustamos os robôs -->
 
 ###
 
