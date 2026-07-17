@@ -1,4 +1,4 @@
-<img src="banner-novo.jpeg" />
+<img src="bannerdefundo.png" />
 
 
 
