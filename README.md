@@ -31,7 +31,7 @@
 
 ###
 
-<h3 align="left"><img src="https://readme-typing-svg.herokuapp.com/?color=8A2BE2&size=25&center=true&vCenter=true&width=250&lines=Desenvolvedor+Back-End" /></h3>
+<h3 align="left"><img src="https://readme-typing-svg.herokuapp.com/?color=8A2BE2&size=25&center=true&vCenter=true&width=280&lines=Desenvolvimento+Back-End" /></h3>
 <p align="left" style="margin-top: 0; margin-bottom: 12px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp" style="margin-right: 6px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus" style="margin-right: 6px;" />
