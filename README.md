@@ -42,7 +42,7 @@
 </p>
 
 <h3 align="left">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=8A2BE2&size=25&duration=7000&pause=3000center=true&vCenter=true&width=340&lines=Desenvolvimento+Front-end" />
+  <img src="https://readme-typing-svg.herokuapp.com/?color=8A2BE2&size=25&duration=7000&pause=3000center=true&vCenter=true&width=345&lines=Desenvolvimento+Front-end" />
 </h3>
 <p align="left" style="margin-top: 0; margin-bottom: 12px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5" style="margin-right: 6px;" />
@@ -53,7 +53,7 @@
 </p>
 
 <h3 align="left">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=8A2BE2&size=25&duration=7000&pause=3000center=true&vCenter=true&width=298&lines=Banco+de+Dados+%26+Cloud" />
+  <img src="https://readme-typing-svg.herokuapp.com/?color=8A2BE2&size=25&duration=7000&pause=3000center=true&vCenter=true&width=300&lines=Banco+de+Dados+%26+Cloud" />
 </h3>
 <p align="left" style="margin-top: 0; margin-bottom: 12px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql" style="margin-right: 6px;" />
