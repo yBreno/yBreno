@@ -69,7 +69,7 @@
 </p>
 
 <h3 align="left">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=8A2BE2&size=25&duration=7000&center=true&vCenter=true&width=240&lines=Design+%26+UI%2FUX" />
+  <img src="https://readme-typing-svg.herokuapp.com/?color=8A2BE2&size=25&duration=7000&center=true&vCenter=true&width=220&lines=Design+%26+UI%2FUX" />
 </h3>
 <p align="left" style="margin-top: 0; margin-bottom: 12px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma" style="margin-right: 6px;" />
