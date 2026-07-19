@@ -62,7 +62,7 @@
 </p>
 
 <h3 align="left">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=8A2BE2&size=25&duration=7000&center=true&vCenter=true&width=210&lines=Game+Development" />
+  <img src="https://readme-typing-svg.herokuapp.com/?color=8A2BE2&size=25&duration=7000&center=true&vCenter=true&width=215&lines=Game+Development" />
 </h3>
 <p align="left" style="margin-top: 0; margin-bottom: 12px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" height="40" alt="godot" style="margin-right: 6px;" />
