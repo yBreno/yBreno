@@ -35,45 +35,45 @@
   <img src="https://readme-typing-svg.herokuapp.com/?color=8A2BE2&size=25&duration=7000&pause=3000center=true&vCenter=true&width=330&lines=Desenvolvimento+Back-end" />
 </h3>
 <p align="left" style="margin-top: 0; margin-bottom: 12px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp" style="margin-right: 6px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus" style="margin-right: 6px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python" style="margin-right: 6px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" height="40" alt="flask" style="margin-right: 6px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="C#" style="margin-right: 6px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++" style="margin-right: 6px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" style="margin-right: 6px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" height="40" alt="Flask" style="margin-right: 6px;" />
 </p>
 
 <h3 align="left">
   <img src="https://readme-typing-svg.herokuapp.com/?color=8A2BE2&size=25&duration=7000&pause=3000center=true&vCenter=true&width=345&lines=Desenvolvimento+Front-end" />
 </h3>
 <p align="left" style="margin-top: 0; margin-bottom: 12px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5" style="margin-right: 6px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css" style="margin-right: 6px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss" style="margin-right: 6px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript" style="margin-right: 6px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height="40" alt="react" style="margin-right: 6px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML" style="margin-right: 6px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS" style="margin-right: 6px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="TailWind" style="margin-right: 6px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" style="margin-right: 6px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height="40" alt="React" style="margin-right: 6px;" />
 </p>
 
 <h3 align="left">
   <img src="https://readme-typing-svg.herokuapp.com/?color=8A2BE2&size=25&duration=7000&pause=3000center=true&vCenter=true&width=300&lines=Banco+de+Dados+%26+Cloud" />
 </h3>
 <p align="left" style="margin-top: 0; margin-bottom: 12px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql" style="margin-right: 6px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite" style="margin-right: 6px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase" style="margin-right: 6px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" style="margin-right: 6px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="SQLite" style="margin-right: 6px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="FireBase" style="margin-right: 6px;" />
 </p>
 
 <h3 align="left">
   <img src="https://readme-typing-svg.herokuapp.com/?color=8A2BE2&size=25&duration=7000&pause=3000center=true&vCenter=true&width=219&lines=Game+Development" />
 </h3>
 <p align="left" style="margin-top: 0; margin-bottom: 12px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" height="40" alt="godot" style="margin-right: 6px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" height="40" alt="Godot" style="margin-right: 6px;" />
 </p>
 
 <h3 align="left">
   <img src="https://readme-typing-svg.herokuapp.com/?color=8A2BE2&size=25&duration=7000&pause=3000center=true&vCenter=true&width=193&lines=Design+%26+UI%2FUX" />
 </h3>
 <p align="left" style="margin-top: 0; margin-bottom: 12px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma" style="margin-right: 6px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva" style="margin-right: 6px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="Figma" style="margin-right: 6px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="Canva" style="margin-right: 6px;" />
 </p>
 
 ###
