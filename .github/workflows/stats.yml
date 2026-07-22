@@ -24,7 +24,7 @@ jobs:
           card: stats
           options: username=${{ github.repository_owner }}&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=midnight-purple&locale=en&hide_border=true&custom_title=My%20GitHub%20Stats
           path: dist/stats.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ github.token }}
 
 
       - name: push stats.svg to the output branch
