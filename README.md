@@ -19,13 +19,14 @@
 
 </div>
 
-<img align="right" height="150" src="https://i.imgflip.com/awv358.gif" />
 
 
 ### 
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/yBreno/yBreno/languages-output/languages.svg" height="150" alt="languages graph" /> 
+  <img align="right" height="150" src="https://i.imgflip.com/awv358.gif" />
+
 </div>
 
 ###
