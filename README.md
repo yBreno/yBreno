@@ -25,7 +25,7 @@
 ### 
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/yBreno/yBreno/stats-output/stats.svg" height="150" alt="stats graph" />
+  <img src="https://raw.githubusercontent.com/yBreno/yBreno/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=midnight-purple&locale=en&hide_border=true&custom_title=My%20GitHub%20Stats" height="150" alt="stats graph"  />
   <img src="https://raw.githubusercontent.com/yBreno/yBreno/languages-output/languages.svg" height="150" alt="languages graph" /> 
 </div>
 
