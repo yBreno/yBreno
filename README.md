@@ -44,7 +44,7 @@
 <h3 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?color=8A2BE2&size=25&duration=7000&pause=3000center=true&vCenter=true&width=345&lines=Desenvolvimento+Front-end" />
 </h3>
-<p align="left" style="margin-top: 0; margin-bottom: 12px;">
+<p align="center" style="margin-top: 0; margin-bottom: 12px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML" style="margin-right: 6px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS" style="margin-right: 6px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="TailWind" style="margin-right: 6px;" />
@@ -55,7 +55,7 @@
 <h3 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?color=8A2BE2&size=25&duration=7000&pause=3000center=true&vCenter=true&width=300&lines=Banco+de+Dados+%26+Cloud" />
 </h3>
-<p align="left" style="margin-top: 0; margin-bottom: 12px;">
+<p align="center" style="margin-top: 0; margin-bottom: 12px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" style="margin-right: 6px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="SQLite" style="margin-right: 6px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="FireBase" style="margin-right: 6px;" />
@@ -64,14 +64,14 @@
 <h3 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?color=8A2BE2&size=25&duration=7000&pause=3000center=true&vCenter=true&width=219&lines=Game+Development" />
 </h3>
-<p align="left" style="margin-top: 0; margin-bottom: 12px;">
+<p align="center" style="margin-top: 0; margin-bottom: 12px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" height="40" alt="Godot" style="margin-right: 6px;" />
 </p>
 
 <h3 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?color=8A2BE2&size=25&duration=7000&pause=3000center=true&vCenter=true&width=193&lines=Design+%26+UI%2FUX" />
 </h3>
-<p align="left" style="margin-top: 0; margin-bottom: 12px;">
+<p align="center" style="margin-top: 0; margin-bottom: 12px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="Figma" style="margin-right: 6px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="Canva" style="margin-right: 6px;" />
 </p>
