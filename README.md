@@ -31,7 +31,7 @@
 
 ###
 
-<h3 align="left">
+<h3 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?color=8A2BE2&size=25&duration=7000&pause=3000center=true&vCenter=true&width=330&lines=Desenvolvimento+Back-end" />
 </h3>
 <p align="left" style="margin-top: 0; margin-bottom: 12px;">
@@ -41,7 +41,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" height="40" alt="Flask" style="margin-right: 6px;" />
 </p>
 
-<h3 align="left">
+<h3 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?color=8A2BE2&size=25&duration=7000&pause=3000center=true&vCenter=true&width=345&lines=Desenvolvimento+Front-end" />
 </h3>
 <p align="left" style="margin-top: 0; margin-bottom: 12px;">
@@ -52,7 +52,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height="40" alt="React" style="margin-right: 6px;" />
 </p>
 
-<h3 align="left">
+<h3 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?color=8A2BE2&size=25&duration=7000&pause=3000center=true&vCenter=true&width=300&lines=Banco+de+Dados+%26+Cloud" />
 </h3>
 <p align="left" style="margin-top: 0; margin-bottom: 12px;">
@@ -61,14 +61,14 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="FireBase" style="margin-right: 6px;" />
 </p>
 
-<h3 align="left">
+<h3 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?color=8A2BE2&size=25&duration=7000&pause=3000center=true&vCenter=true&width=219&lines=Game+Development" />
 </h3>
 <p align="left" style="margin-top: 0; margin-bottom: 12px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" height="40" alt="Godot" style="margin-right: 6px;" />
 </p>
 
-<h3 align="left">
+<h3 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?color=8A2BE2&size=25&duration=7000&pause=3000center=true&vCenter=true&width=193&lines=Design+%26+UI%2FUX" />
 </h3>
 <p align="left" style="margin-top: 0; margin-bottom: 12px;">
