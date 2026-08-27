@@ -2,10 +2,12 @@
 
 
 <div align="center" style="display: flex; justify-content: center; align-items: center; gap: 15px; flex-wrap: wrap;">
-  
+  <div>
   <a href="https://open.spotify.com/user/31kfwghe247f6yf5jqpewdcekn3a">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=31kfwghe247f6yf5jqpewdcekn3a&count=1" alt="Spotify recently played" />
   </a>
+<img align="right" height="350" src="icon-comm.png" />
+  </div>
 
   </div>
   <div align="center">
@@ -25,7 +27,7 @@
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/yBreno/yBreno/languages-output/languages.svg" height="150" alt="languages graph" /> 
-  <img align="right" height="350" src="icon-comm.png" />
+  
 </div>
 
 ###
