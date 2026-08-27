@@ -31,9 +31,9 @@
 ###
 <div>
   
-
+<br>
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=8A2BE2&size=25&duration=7000&pause=3000center=true&vCenter=true&width=120&lines=Desenvolvimento+Back-end" />
+  <img src="https://readme-typing-svg.herokuapp.com/?color=8A2BE2&size=25&duration=7000&pause=3000center=true&vCenter=true&width=330&lines=Desenvolvimento+Back-end" />
 </h3>
 <p align="center" style="margin-top: 0; margin-bottom: 12px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="C#" style="margin-right: 6px;" />
