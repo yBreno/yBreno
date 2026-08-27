@@ -25,8 +25,7 @@
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/yBreno/yBreno/languages-output/languages.svg" height="150" alt="languages graph" /> 
-  <img align="right" height="300" src="icon-comm.png" />
-
+  <img align="right" height="200" src="icon-comm.png" />
 </div>
 
 ###
