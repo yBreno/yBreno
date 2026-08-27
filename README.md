@@ -29,6 +29,8 @@
 </div>
 
 ###
+<div>
+  
 
 <h3 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?color=8A2BE2&size=25&duration=7000&pause=3000center=true&vCenter=true&width=330&lines=Desenvolvimento+Back-end" />
@@ -73,7 +75,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="Figma" style="margin-right: 6px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="Canva" style="margin-right: 6px;" />
 </p>
-
+</div>
 ###
  <br/>
  
