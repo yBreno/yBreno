@@ -82,7 +82,7 @@
  <br/>
  
  
-<img src="Bannerdefundo.png" />
+<img src="banner-comm.png" />
 
 
 
