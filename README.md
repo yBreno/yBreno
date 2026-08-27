@@ -1,4 +1,4 @@
-<img src="greetings.png" /> 
+<img src="banner-comm.png" /> 
 
 
 <div align="center" style="display: flex; justify-content: center; align-items: center; gap: 15px; flex-wrap: wrap;">
@@ -25,7 +25,7 @@
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/yBreno/yBreno/languages-output/languages.svg" height="150" alt="languages graph" /> 
-  <img align="right" height="150" src="https://i.imgflip.com/awv358.gif" />
+  <img align="right" height="150" src="icon-comm.png" />
 
 </div>
 
